@@ -102,7 +102,7 @@ Second profile is used for side projects, experiments, and exploration.
 <h2 style="color:#4DFFBC;">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MasterOFSnippet/MasterOFSnippet/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/MasterOFSnippet/MasterOFSnippet/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
