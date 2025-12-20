@@ -134,6 +134,7 @@ Second profile is used for side projects, experiments, and exploration.
 
 <p style="color:#D9D9D9;" align="center">
 <b>"Small aim is a crime."</b>
+<i align="right">--Abdul Kalam</i>
 </p>
 
 <p style="color:#4DFFBC;" align="center">
