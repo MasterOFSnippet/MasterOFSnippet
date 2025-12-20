@@ -1,11 +1,11 @@
 <!-- ================= PROFILE BANNER ================= --> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:121212,100:0f0f0f&height=220&section=header&text=Arav%20Gautam&fontSize=42&fontColor=FF4D4D" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:121212,100:0f0f0f&height=220&section=header&text=Arav%20Gautam&fontSize=42&fontColor=4DFFBC" />
 </p>
 
 <!-- ================= TYPING INTRO ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4DFFBC&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;DSA+%7C+Problem+Solver;Cloud+%26+Backend+Enthusiast;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;DSA+%7C+Problem+Solver;Cloud+%26+Backend+Enthusiast;Open+Source+Contributor" />
 </p>
 
 ---
@@ -132,11 +132,11 @@ Second profile is used for side projects, experiments, and exploration.
 
 ---
 
-<p style="color:#D9D9D9;">
+<p style="color:#D9D9D9;" align="center">
 <b>"Small aim is a crime."</b>
 </p>
 
-<p style="color:#4DFFBC;">
+<p style="color:#4DFFBC;" align="center">
 ⚡ Learn • Build • Break • Repeat ⚡
 </p>
 
