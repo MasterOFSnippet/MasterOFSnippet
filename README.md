@@ -13,7 +13,6 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=AravGautam&label=Profile%20Views&color=ff0055&style=for-the-badge)
 </p>
-
 ---
 
 <h2>🚀 About Me</h2>
@@ -92,15 +91,15 @@ Second profile is used for side projects, experiments, and exploration.
 <h2 style="color:#FF4D4D;">🔥 GitHub Activity</h2>
 
 <p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MasterOFSnippet&theme=dark&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AravGautam&theme=dark&hide_border=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MasterOFSnippet&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AravGautam&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterOFSnippet&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AravGautam&theme=dark&hide_border=true&layout=compact" />
 </p>
 
 ---
@@ -108,14 +107,14 @@ Second profile is used for side projects, experiments, and exploration.
 <h2 style="color:#4DFFBC;">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MasterOFSnippet/MasterOFSnippet/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/AravGautam/AravGautam/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 <h2 style="color:#FF4D4D;">🏆 GitHub Trophies</h2>
 
-![](https://github-profile-trophy.vercel.app/?username=MasterOFSnippet&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AravGautam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -149,4 +148,4 @@ Second profile is used for side projects, experiments, and exploration.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MasterOFSnippet&icon=2&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AravGautam&icon=2&color=5)](https://visitcount.itsvg.in)
